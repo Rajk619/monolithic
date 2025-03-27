@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "one" {
-  bucket = "raj45.devops.project.bucket"
+  bucket = "raj4509.devops.project.bucket"
 }
 
 resource "aws_s3_bucket_ownership_controls" "two" {
